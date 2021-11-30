@@ -1,0 +1,1 @@
+C:\Users\alxx9\Desktop\Term 2\CryptoTracker\CryptoTracker.UWP\CryptoTracker.UWP.csproj;x86

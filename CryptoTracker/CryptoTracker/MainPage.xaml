@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CryptoTracker.MainPage"
+             x:Name="CrytoTrackerMainPage"
+             >
+    
+    
+    <StackLayout>
+        <ScrollView>
+            <ListView x:Name="coinListView">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <!--<ImageCell Text="{Binding name}" 
+                               Detail="{Binding price_usd,StringFormat='{}{0:c}'}" 
+                               ImageSource="{Binding icon_url}"
+                               />-->
+                        <ViewCell>
+                                <StackLayout Orientation="Horizontal" Padding="0,0,0,0" BackgroundColor="Black">
+                                    <Image Source="{Binding icon_url}"/>
+                                    <StackLayout Orientation="Vertical" Padding="0,0,0,0" HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand">
+                                        <Label Text="{Binding name}" TextColor="White"/>
+                                    <Label Text="{Binding asset_id}" TextColor="White"/>
+                                    </StackLayout >
+                                <Label Text="{Binding price_usd,StringFormat='{}{0:c}'}" HorizontalOptions="End" VerticalOptions="CenterAndExpand" TextColor="White"/>
+
+                                </StackLayout>
+
+                            </ViewCell>
+                        
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </ScrollView>
+        <StackLayout Background="black" Padding="0,0,0,0" Margin="0" >
+                <Button x:Name="RefreshButton" 
+                        Clicked="RefreshButton_Clicked"
+                        Text="Refresh"
+                        FontAttributes="Bold"
+                        BorderRadius="50"
+                        Padding="60,0,60,0"
+                        BackgroundColor="DeepSkyBlue"
+                        TextColor="White"
+                        HorizontalOptions="CenterAndExpand"
+                        VerticalOptions="Center"
+                        BorderWidth="5"
+                        />
+            </StackLayout>
+        </StackLayout>
+
+
+</ContentPage>
