@@ -1,0 +1,15 @@
+C:\Users\alxx9\Desktop\Projects\CryptoTracker\CryptoTracker\CryptoTracker\bin\Release\netstandard2.0\CryptoTracker.deps.json
+C:\Users\alxx9\Desktop\Projects\CryptoTracker\CryptoTracker\CryptoTracker\bin\Release\netstandard2.0\CryptoTracker.dll
+C:\Users\alxx9\Desktop\Projects\CryptoTracker\CryptoTracker\CryptoTracker\bin\Release\netstandard2.0\ref\CryptoTracker.dll
+C:\Users\alxx9\Desktop\Projects\CryptoTracker\CryptoTracker\CryptoTracker\bin\Release\netstandard2.0\CryptoTracker.pdb
+C:\Users\alxx9\Desktop\Projects\CryptoTracker\CryptoTracker\CryptoTracker\obj\Release\netstandard2.0\CryptoTracker.csproj.AssemblyReference.cache
+C:\Users\alxx9\Desktop\Projects\CryptoTracker\CryptoTracker\CryptoTracker\obj\Release\netstandard2.0\CryptoTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alxx9\Desktop\Projects\CryptoTracker\CryptoTracker\CryptoTracker\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\alxx9\Desktop\Projects\CryptoTracker\CryptoTracker\CryptoTracker\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\alxx9\Desktop\Projects\CryptoTracker\CryptoTracker\CryptoTracker\obj\Release\netstandard2.0\CryptoTracker.AssemblyInfoInputs.cache
+C:\Users\alxx9\Desktop\Projects\CryptoTracker\CryptoTracker\CryptoTracker\obj\Release\netstandard2.0\CryptoTracker.AssemblyInfo.cs
+C:\Users\alxx9\Desktop\Projects\CryptoTracker\CryptoTracker\CryptoTracker\obj\Release\netstandard2.0\CryptoTracker.csproj.CoreCompileInputs.cache
+C:\Users\alxx9\Desktop\Projects\CryptoTracker\CryptoTracker\CryptoTracker\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\alxx9\Desktop\Projects\CryptoTracker\CryptoTracker\CryptoTracker\obj\Release\netstandard2.0\CryptoTracker.dll
+C:\Users\alxx9\Desktop\Projects\CryptoTracker\CryptoTracker\CryptoTracker\obj\Release\netstandard2.0\ref\CryptoTracker.dll
+C:\Users\alxx9\Desktop\Projects\CryptoTracker\CryptoTracker\CryptoTracker\obj\Release\netstandard2.0\CryptoTracker.pdb

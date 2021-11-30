@@ -2534,11 +2534,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alxx9\\Desktop\\Term 2\\CryptoTracker\\UITest1\\UITest1.csproj",
+      "projectUniqueName": "C:\\Users\\alxx9\\Desktop\\Projects\\CryptoTracker\\CryptoTracker\\UITest1\\UITest1.csproj",
       "projectName": "UITest1",
-      "projectPath": "C:\\Users\\alxx9\\Desktop\\Term 2\\CryptoTracker\\UITest1\\UITest1.csproj",
+      "projectPath": "C:\\Users\\alxx9\\Desktop\\Projects\\CryptoTracker\\CryptoTracker\\UITest1\\UITest1.csproj",
       "packagesPath": "C:\\Users\\alxx9\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alxx9\\Desktop\\Term 2\\CryptoTracker\\UITest1\\obj\\",
+      "outputPath": "C:\\Users\\alxx9\\Desktop\\Projects\\CryptoTracker\\CryptoTracker\\UITest1\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2561,11 +2561,11 @@
       "frameworks": {
         "net461": {
           "projectReferences": {
-            "C:\\Users\\alxx9\\Desktop\\Term 2\\CryptoTracker\\CryptoTracker.Android\\CryptoTracker.Android.csproj": {
-              "projectPath": "C:\\Users\\alxx9\\Desktop\\Term 2\\CryptoTracker\\CryptoTracker.Android\\CryptoTracker.Android.csproj"
+            "C:\\Users\\alxx9\\Desktop\\Projects\\CryptoTracker\\CryptoTracker\\CryptoTracker.Android\\CryptoTracker.Android.csproj": {
+              "projectPath": "C:\\Users\\alxx9\\Desktop\\Projects\\CryptoTracker\\CryptoTracker\\CryptoTracker.Android\\CryptoTracker.Android.csproj"
             },
-            "C:\\Users\\alxx9\\Desktop\\Term 2\\CryptoTracker\\CryptoTracker\\CryptoTracker.csproj": {
-              "projectPath": "C:\\Users\\alxx9\\Desktop\\Term 2\\CryptoTracker\\CryptoTracker\\CryptoTracker.csproj"
+            "C:\\Users\\alxx9\\Desktop\\Projects\\CryptoTracker\\CryptoTracker\\CryptoTracker\\CryptoTracker.csproj": {
+              "projectPath": "C:\\Users\\alxx9\\Desktop\\Projects\\CryptoTracker\\CryptoTracker\\CryptoTracker\\CryptoTracker.csproj"
             }
           }
         }

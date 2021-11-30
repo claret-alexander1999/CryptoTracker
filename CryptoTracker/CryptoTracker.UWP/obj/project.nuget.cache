@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WayrxNKhejhi+KyIpNkiLoN5V1D9KeVwaQPE+nBdCPHxtWx07g/HJPjWwMAtz+xxy5JBB8fQwjLSSFW1hwLEbA==",
+  "dgSpecHash": "5wyqt2v05IeSLZV8PiXNWbbgsboL/xf5/8J+u1HOpNPlgA56S7LD0yWANvmq1CJr57Pf4wgt7rmRUeaksJp6Pw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alxx9\\Desktop\\Term 2\\CryptoTracker\\CryptoTracker.UWP\\CryptoTracker.UWP.csproj",
+  "projectFilePath": "C:\\Users\\alxx9\\Desktop\\Projects\\CryptoTracker\\CryptoTracker\\CryptoTracker.UWP\\CryptoTracker.UWP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alxx9\\.nuget\\packages\\microsoft.appcenter\\4.4.0\\microsoft.appcenter.4.4.0.nupkg.sha512",
     "C:\\Users\\alxx9\\.nuget\\packages\\microsoft.appcenter.analytics\\4.4.0\\microsoft.appcenter.analytics.4.4.0.nupkg.sha512",

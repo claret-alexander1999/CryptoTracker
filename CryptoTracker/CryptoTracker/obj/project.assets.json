@@ -717,11 +717,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alxx9\\Desktop\\Term 2\\CryptoTracker\\CryptoTracker\\CryptoTracker.csproj",
+      "projectUniqueName": "C:\\Users\\alxx9\\Desktop\\Projects\\CryptoTracker\\CryptoTracker\\CryptoTracker\\CryptoTracker.csproj",
       "projectName": "CryptoTracker",
-      "projectPath": "C:\\Users\\alxx9\\Desktop\\Term 2\\CryptoTracker\\CryptoTracker\\CryptoTracker.csproj",
+      "projectPath": "C:\\Users\\alxx9\\Desktop\\Projects\\CryptoTracker\\CryptoTracker\\CryptoTracker\\CryptoTracker.csproj",
       "packagesPath": "C:\\Users\\alxx9\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alxx9\\Desktop\\Term 2\\CryptoTracker\\CryptoTracker\\obj\\",
+      "outputPath": "C:\\Users\\alxx9\\Desktop\\Projects\\CryptoTracker\\CryptoTracker\\CryptoTracker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -10665,11 +10665,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alxx9\\Desktop\\Term 2\\CryptoTracker\\CryptoTracker.UWP\\CryptoTracker.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\alxx9\\Desktop\\Projects\\CryptoTracker\\CryptoTracker\\CryptoTracker.UWP\\CryptoTracker.UWP.csproj",
       "projectName": "CryptoTracker.UWP",
-      "projectPath": "C:\\Users\\alxx9\\Desktop\\Term 2\\CryptoTracker\\CryptoTracker.UWP\\CryptoTracker.UWP.csproj",
+      "projectPath": "C:\\Users\\alxx9\\Desktop\\Projects\\CryptoTracker\\CryptoTracker\\CryptoTracker.UWP\\CryptoTracker.UWP.csproj",
       "packagesPath": "C:\\Users\\alxx9\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alxx9\\Desktop\\Term 2\\CryptoTracker\\CryptoTracker.UWP\\obj\\",
+      "outputPath": "C:\\Users\\alxx9\\Desktop\\Projects\\CryptoTracker\\CryptoTracker\\CryptoTracker.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -10693,8 +10693,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\alxx9\\Desktop\\Term 2\\CryptoTracker\\CryptoTracker\\CryptoTracker.csproj": {
-              "projectPath": "C:\\Users\\alxx9\\Desktop\\Term 2\\CryptoTracker\\CryptoTracker\\CryptoTracker.csproj"
+            "C:\\Users\\alxx9\\Desktop\\Projects\\CryptoTracker\\CryptoTracker\\CryptoTracker\\CryptoTracker.csproj": {
+              "projectPath": "C:\\Users\\alxx9\\Desktop\\Projects\\CryptoTracker\\CryptoTracker\\CryptoTracker\\CryptoTracker.csproj"
             }
           }
         }

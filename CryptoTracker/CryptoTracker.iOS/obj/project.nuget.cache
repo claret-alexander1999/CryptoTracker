@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yAg7tydodfe9yJTiYd62JAvkWU4VHvDZjwWBhP3CYbxjo4mMB3nSeN8MdavvlJz8Xj5clJ5WLoKQlVPlZA2sRQ==",
+  "dgSpecHash": "7BGGqirhyMck5YPjUVk4OmqsVS1pysexze77aM7ztYaZD/lcJAl1emQIfVJULfp0EDqNQxpYlIO0wuZcA50MPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alxx9\\Desktop\\Term 2\\CryptoTracker\\CryptoTracker.iOS\\CryptoTracker.iOS.csproj",
+  "projectFilePath": "C:\\Users\\alxx9\\Desktop\\Projects\\CryptoTracker\\CryptoTracker\\CryptoTracker.iOS\\CryptoTracker.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alxx9\\.nuget\\packages\\microsoft.appcenter\\4.4.0\\microsoft.appcenter.4.4.0.nupkg.sha512",
     "C:\\Users\\alxx9\\.nuget\\packages\\microsoft.appcenter.analytics\\4.4.0\\microsoft.appcenter.analytics.4.4.0.nupkg.sha512",

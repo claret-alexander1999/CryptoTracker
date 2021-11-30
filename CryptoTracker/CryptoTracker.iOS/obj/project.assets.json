@@ -1372,11 +1372,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alxx9\\Desktop\\Term 2\\CryptoTracker\\CryptoTracker.iOS\\CryptoTracker.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\alxx9\\Desktop\\Projects\\CryptoTracker\\CryptoTracker\\CryptoTracker.iOS\\CryptoTracker.iOS.csproj",
       "projectName": "CryptoTracker.iOS",
-      "projectPath": "C:\\Users\\alxx9\\Desktop\\Term 2\\CryptoTracker\\CryptoTracker.iOS\\CryptoTracker.iOS.csproj",
+      "projectPath": "C:\\Users\\alxx9\\Desktop\\Projects\\CryptoTracker\\CryptoTracker\\CryptoTracker.iOS\\CryptoTracker.iOS.csproj",
       "packagesPath": "C:\\Users\\alxx9\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alxx9\\Desktop\\Term 2\\CryptoTracker\\CryptoTracker.iOS\\obj\\",
+      "outputPath": "C:\\Users\\alxx9\\Desktop\\Projects\\CryptoTracker\\CryptoTracker\\CryptoTracker.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1399,8 +1399,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\alxx9\\Desktop\\Term 2\\CryptoTracker\\CryptoTracker\\CryptoTracker.csproj": {
-              "projectPath": "C:\\Users\\alxx9\\Desktop\\Term 2\\CryptoTracker\\CryptoTracker\\CryptoTracker.csproj"
+            "C:\\Users\\alxx9\\Desktop\\Projects\\CryptoTracker\\CryptoTracker\\CryptoTracker\\CryptoTracker.csproj": {
+              "projectPath": "C:\\Users\\alxx9\\Desktop\\Projects\\CryptoTracker\\CryptoTracker\\CryptoTracker\\CryptoTracker.csproj"
             }
           }
         }
